@@ -196,7 +196,7 @@ public class MovieRestApi {
 
     /**
      * 获取用户评分过得电影
-     * @param username
+     * @param username 用户名
      * @param model
      * @return
      */
